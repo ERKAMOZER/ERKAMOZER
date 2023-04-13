@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: erkam.ozer3@gmail.com
 - 
-- ⚡ Fun fact: HTML CSS BOOTSTRAP
+- ⚡ Fun fact: HTML CSS BOOTSTRAP JS SCRİPT
 
