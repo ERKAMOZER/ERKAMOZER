@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything
 - 📫 How to reach me: erkam.ozer3@gmail.com
-- 
 - ⚡ Fun fact: HTML CSS BOOTSTRAP JS SCRİPT
-
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML5 Logo" width="64" height="64">
