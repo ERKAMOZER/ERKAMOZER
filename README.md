@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: HTML CSS BOOTSTRAP JS SCRİPT
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png" alt="HTML5 Logo" width="64" height="64">
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="20" role="img" aria-label="CSS"><title>CSS</title>
+
